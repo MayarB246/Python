@@ -8,3 +8,9 @@ elif Entrada == 'sair':
 
 else :
     print('Resposta inexistente!')
+
+print("Conflito")
+print("Conflito")
+print("Conflito")
+print("Conflito")
+print("Conflito")
